@@ -1,0 +1,4 @@
+apiVersion: v2
+name: minio-helm-chart
+description: Helm chart for Minio deployment
+version: 0.1.0
