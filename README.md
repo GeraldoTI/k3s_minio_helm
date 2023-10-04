@@ -3,6 +3,10 @@ Este é um projeto Helm para implantar o Minio no Kubernetes.
 
 Projeto criado com sucesso e volume persistente. 
 
+<<<<<<<<< Temporary merge branch 1
+
+=========
+.
 ├── charts
 │   └── Chart.yaml
 ├── Chart.yaml
@@ -16,8 +20,4 @@ Projeto criado com sucesso e volume persistente.
 │   ├── ingress.yaml
 │   └── service.yaml
 └── values.yaml
-
-
-
-k3s_minio_helm# k3s_minio_helm
-# k3s_minio_helm
+>>>>>>>>> Temporary merge branch 2
